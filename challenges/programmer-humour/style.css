@@ -1,0 +1,14 @@
+*{
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+background-color: pink;
+}
+
+body{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
